@@ -1,6 +1,6 @@
 
 public class HelloWorld {
 	public String hello(){
-		return "Goodbye";
+		return "Hello Again";
 	}
 }
